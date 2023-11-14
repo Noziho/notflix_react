@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9de8de6-4cd4-44c1-bce2-54747be197f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/VideosList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/searchBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/searchResult.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/438086875374877a19e380d4c9cc1e25affa8e00" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/438086875374877a19e380d4c9cc1e25affa8e00" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0e9e59a467e1546695bfa22746b302540797a4e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0e9e59a467e1546695bfa22746b302540797a4e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fead83804c3ec67f19f6546b091bb6aed8e2ab93" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fead83804c3ec67f19f6546b091bb6aed8e2ab93" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notflix_react" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/VideoCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoCard.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Videos.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Videos.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +71,8 @@
       <updated>1699878959938</updated>
       <workItem from="1699878961769" duration="2386000" />
       <workItem from="1699881378619" duration="43000" />
-      <workItem from="1699963846298" duration="1320000" />
+      <workItem from="1699963846298" duration="6706000" />
+      <workItem from="1699970687845" duration="1753000" />
     </task>
     <servers />
   </component>
